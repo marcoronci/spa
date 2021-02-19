@@ -1,0 +1,1 @@
+'@fc/spa-header';
